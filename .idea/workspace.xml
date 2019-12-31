@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="imageBasics" targetName="retrieve" />
+      <config projectName="imageBasics" targetName="demo" />
+      <config projectName="imageBasics" targetName="mobile_app" />
+      <config projectName="imageBasics" targetName="overlapoft" />
+      <config projectName="imageBasics" targetName="main_prj" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3004c0a7-7d8c-4d92-81b6-5516abf4af71" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1UsBJM1zbT7COUB7pHelEximZwP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src_out" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.overlapoft">
+    <configuration name="demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="imageBasics" TARGET_NAME="demo" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_prj" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="imageBasics" TARGET_NAME="main_prj" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="imageBasics" RUN_TARGET_NAME="main_prj">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mobile_app" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="imageBasics" TARGET_NAME="mobile_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="imageBasics" RUN_TARGET_NAME="mobile_app">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="native_" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="imageBasics" TARGET_NAME="native_" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="overlapoft" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="imageBasics" TARGET_NAME="overlapoft" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="imageBasics" RUN_TARGET_NAME="overlapoft">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="retrieve" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="imageBasics" TARGET_NAME="retrieve" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="imageBasics" RUN_TARGET_NAME="retrieve">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rot_prj" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="imageBasics" TARGET_NAME="rot_prj" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="imageBasics" RUN_TARGET_NAME="rot_prj">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.demo" />
+      <item itemvalue="CMake Application.retrieve" />
+      <item itemvalue="CMake Application.main_prj" />
+      <item itemvalue="CMake Application.mobile_app" />
+      <item itemvalue="CMake Application.overlapoft" />
+      <item itemvalue="CMake Application.rot_prj" />
+      <item itemvalue="CMake Application.native_" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3004c0a7-7d8c-4d92-81b6-5516abf4af71" name="Default Changelist" comment="" />
+      <created>1576135349413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576135349413</updated>
+      <workItem from="1576135350626" duration="2997000" />
+      <workItem from="1576155451016" duration="3909000" />
+      <workItem from="1576208072432" duration="4686000" />
+      <workItem from="1576496244893" duration="5398000" />
+      <workItem from="1576507247712" duration="19485000" />
+      <workItem from="1576649340366" duration="25460000" />
+      <workItem from="1576722720650" duration="560000" />
+      <workItem from="1576723428200" duration="12899000" />
+      <workItem from="1576742190927" duration="3593000" />
+      <workItem from="1576753015096" duration="1057000" />
+      <workItem from="1576754309460" duration="62304000" />
+      <workItem from="1576917716580" duration="1524000" />
+      <workItem from="1576920622566" duration="9364000" />
+      <workItem from="1577066303633" duration="23438000" />
+      <workItem from="1577262281915" duration="5953000" />
+      <workItem from="1577268251637" duration="294000" />
+      <workItem from="1577268565305" duration="5614000" />
+      <workItem from="1577276051616" duration="36000" />
+      <workItem from="1577276342658" duration="1162000" />
+      <workItem from="1577277513873" duration="1364000" />
+      <workItem from="1577352343075" duration="34539000" />
+      <workItem from="1577443999261" duration="7968000" />
+      <workItem from="1577454111857" duration="80000" />
+      <workItem from="1577454202983" duration="1122000" />
+      <workItem from="1577500435599" duration="4488000" />
+      <workItem from="1577673978344" duration="24770000" />
+      <workItem from="1577713253446" duration="14491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/aruchid_rotation.cpp</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/aruchid_featuresfind.cpp</url>
+          <line>171</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/retrieve.cpp</url>
+          <line>571</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src_out/optical.cpp</url>
+          <line>180</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/capture_stitching_mobile.cpp</url>
+          <line>1095</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

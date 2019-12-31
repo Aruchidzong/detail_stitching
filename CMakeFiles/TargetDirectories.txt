@@ -1,0 +1,7 @@
+/home/aruchid/IDT_stitching/CMakeFiles/rebuild_cache.dir
+/home/aruchid/IDT_stitching/CMakeFiles/main_prj.dir
+/home/aruchid/IDT_stitching/CMakeFiles/overlapoft.dir
+/home/aruchid/IDT_stitching/CMakeFiles/retrieve.dir
+/home/aruchid/IDT_stitching/CMakeFiles/demo.dir
+/home/aruchid/IDT_stitching/CMakeFiles/mobile_app.dir
+/home/aruchid/IDT_stitching/CMakeFiles/edit_cache.dir

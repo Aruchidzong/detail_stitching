@@ -1,0 +1,6 @@
+/home/aruchid/IDT_stitching/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aruchid/IDT_stitching/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aruchid/IDT_stitching/cmake-build-debug/CMakeFiles/cam.dir
+/home/aruchid/IDT_stitching/cmake-build-debug/CMakeFiles/rot_prj.dir
+/home/aruchid/IDT_stitching/cmake-build-debug/CMakeFiles/demo.dir
+/home/aruchid/IDT_stitching/cmake-build-debug/CMakeFiles/main_prj.dir

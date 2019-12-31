@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="imageBasics"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\usr\;CMake Files\..\..\..\usr\local\;CMake Files\..\..\..\usr\local\opencv4\;CMake Files\..\..\..\usr\local\opencv4\lib\;CMake Files\..\..\..\usr\local\opencv4\lib\cmake\;CMake Files\..\..\..\usr\local\opencv4\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main_prj">
+				<Option output="/home/aruchid/IDT_stitching/main_prj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/opencv4/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 main_prj"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main_prj/fast">
+				<Option output="/home/aruchid/IDT_stitching/main_prj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/opencv4/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 main_prj/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="overlapoft">
+				<Option output="/home/aruchid/IDT_stitching/overlapoft" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/opencv4/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 overlapoft"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="overlapoft/fast">
+				<Option output="/home/aruchid/IDT_stitching/overlapoft" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/opencv4/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 overlapoft/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="retrieve">
+				<Option output="/home/aruchid/IDT_stitching/retrieve" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/opencv4/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 retrieve"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="retrieve/fast">
+				<Option output="/home/aruchid/IDT_stitching/retrieve" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/opencv4/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 retrieve/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="demo">
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 demo"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mobile_app">
+				<Option output="/home/aruchid/IDT_stitching/mobile_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/opencv4/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 mobile_app"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mobile_app/fast">
+				<Option output="/home/aruchid/IDT_stitching/mobile_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/opencv4/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 mobile_app/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/aruchid/IDT_stitching"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aruchid/IDT_stitching/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/aruchid/IDT_stitching/app_test.cpp">
+			<Option target="mobile_app"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/capture_stitching_mobile.cpp">
+			<Option target="mobile_app"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/capture_stitching_mobile.hpp">
+			<Option target="mobile_app"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/entrance.cpp">
+			<Option target="main_prj"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/include/aruchid_featuresfind.hpp">
+			<Option target="main_prj"/>
+			<Option target="retrieve"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/include/aruchid_get_homo.h">
+			<Option target="main_prj"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/include/aruchid_pipeline.h">
+			<Option target="main_prj"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/include/aruchid_printpic.h">
+			<Option target="main_prj"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/main.cpp">
+			<Option target="main_prj"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/src/aruchid_featuresfind.cpp">
+			<Option target="main_prj"/>
+			<Option target="retrieve"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/src/aruchid_get_homo.cpp">
+			<Option target="main_prj"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/src/aruchid_pipeline.cpp">
+			<Option target="main_prj"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/src/aruchid_printpic.cpp">
+			<Option target="main_prj"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/src/overlap_optflow.cpp">
+			<Option target="overlapoft"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/src/retrieve.cpp">
+			<Option target="retrieve"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/src_out/optical.cpp">
+			<Option target="overlapoft"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/src_out/optical.hpp">
+			<Option target="overlapoft"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/stitch_connector.h">
+			<Option target="main_prj"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/../../../usr/local/opencv4/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\local\opencv4\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/../../../usr/local/opencv4/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\local\opencv4\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/../../../usr/local/opencv4/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\local\opencv4\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/aruchid/IDT_stitching/../../../usr/local/opencv4/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\local\opencv4\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
